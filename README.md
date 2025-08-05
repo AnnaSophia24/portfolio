@@ -14,7 +14,7 @@
     <header class="container text-center">
         <img src="img/avatar-perfil.png" alt="<img width="529" height="700" alt="image" src="https://github.com/user-attachments/assets/4052b42c-3254-456a-adbc-c990b524b61f" />
 " class="rounded-circle" width="150" height="150" srcset="">
-        <p class="lead">Eu sou Anna Sophia_</p>
+        <p class="lead">Eu sou Anna Sophia!</p>
         <h1>Minha arte é ser poetisa</h1>
         <p>Sou estudante do Ensino Médio e tenho uma admiração enorme em poesias, tendo Vinicius de Moraes uma inspiração no meu desenvolvimento poetico. Não somente a poesia, mas em diversas áreas da arte que fazem ter minha liberdade de expressão, teatro, literatura, dança, música e entre outros modos artisticos. </p>
         <p>Minhas habilidades</p>
