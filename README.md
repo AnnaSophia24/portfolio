@@ -12,7 +12,8 @@
 
 <body>
     <header class="container text-center">
-        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150" srcset="">
+        <img src="img/avatar-perfil.png" alt="<img width="529" height="700" alt="image" src="https://github.com/user-attachments/assets/4052b42c-3254-456a-adbc-c990b524b61f" />
+" class="rounded-circle" width="150" height="150" srcset="">
         <p class="lead">Eu sou Anna Sophia_</p>
         <h1>Eu escrevo poesias</h1>
         <p>Sou estudante do Ensino Médio e admiro a literatura, principalmente a literatura poetica. Desenvolvo minha escrita por meio de meus sentimentos e pensamentos, aonde me faz tornar poetisa romântica!</p>
